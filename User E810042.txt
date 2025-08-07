@@ -1,0 +1,8 @@
+User: E810042
+
+
+Password Windows: O388-yEDYuu0
+
+Password Intranet: igual ao userID
+
+Password CONTROL-D: igual ao userID
